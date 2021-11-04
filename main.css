@@ -1,0 +1,59 @@
+/*rang barang
+ @media(max-width:900px){
+
+.box{
+background-color: rgb(68, 0, 255);
+width: 40%;
+}
+
+.content{
+flex-wrap:wrap;
+justify-content: center;
+
+}
+
+body{
+background-color: rgb(0, 0, 0);
+
+
+}
+
+h1{
+    color: rgb(208, 255, 0);
+    background: rgb(255, 0, 255);
+    font-size: 30px;
+    }
+
+} */
+
+
+
+@media(max-width:900px){
+
+    .box{
+    background-color: rgb(68, 0, 255);
+    width: 40%;
+    }
+    
+    .content{
+    flex-wrap:wrap;
+    justify-content: center;
+    
+    }
+    
+    body{
+    background-color: rgb(0, 0, 0);
+    
+    
+    }
+    
+    
+      
+    }
+    
+
+
+
+
+
+
